@@ -15,8 +15,8 @@
 </script>
 
 <style scoped lang="scss">
-  @import "../../common/scss/variable";
-  @import "../../common/scss/mixin";
+  @import "~@/common/scss/variable";
+  @import "~@/common/scss/mixin";
 
   .m-header {
     position: relative;
